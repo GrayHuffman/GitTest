@@ -18,6 +18,7 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 data = iris
 plot(x = iris$Sepal.Length, y = iris$Sepal.Width)
+plot(x = iris$Petal.Width, y = iris$Petal.Length)
 ```
 
 ## Including Plots
