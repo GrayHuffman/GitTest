@@ -25,6 +25,11 @@ hist(x = iris$Sepal.Length)
 
 Print("Testing out this secondary branch")
 
+complex_function <- function(input){
+  print(input)
+  print("is really cool")
+}
+
 ```
 
 ## Including Plots
